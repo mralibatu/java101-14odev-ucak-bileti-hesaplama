@@ -34,7 +34,6 @@ public class BiletHesaplama {
                     tutar = (indirimlitutar - (indirimlitutar * 0.2)) * 2;
                     break;
             }
-            System.out.println(indirimlitutar);
             System.out.println("Ucret = " + tutar);
         }
 
